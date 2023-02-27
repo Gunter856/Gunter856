@@ -5,6 +5,13 @@ Actualmente, estoy estudiando el grado superior de **DAM** *(Desarrollo de Aplic
 
 Soy un amante de la programación, usando lenguajes como Python y Java, y también me encanta el diseño gráfico.
 
+👀 Usuarios que me visitan:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
+<h5> 🔝Mis GitHub stats: </h5>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gunter856&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+
 ## Estudios previos
 
 > ESO (Educación Secundaria Obligatoria), IES Clara Campoamor
