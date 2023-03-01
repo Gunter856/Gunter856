@@ -1,7 +1,7 @@
 # Si lees esto, es que has entrado a mi perfil, bienvenido! 😄
 
 Me llamo **Iker Ortega Gómez** y tengo 18 años.
-Actualmente, estoy estudiando el grado superior de **DAM** *(Desarrollo de Aplicaciones Multiplataformas)* en CESTE. 
+Actualmente, estoy estudiando el grado superior de **DAM** *(Desarrollo de Aplicaciones Multiplataforma)* en CESTE. 
 
 Soy un amante de la programación, usando lenguajes como Python y Java, y también me encanta el diseño gráfico.
 
