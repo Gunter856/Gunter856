@@ -16,7 +16,7 @@ Soy un amante de la programación, usando lenguajes como Python y Java, y tambi�
 <h3> 🔝Mis GitHub stats: </h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gunter856&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
-## Estudios previos
+## 📚Estudios previos
 
 > ESO (Educación Secundaria Obligatoria), IES Clara Campoamor
 
@@ -26,7 +26,7 @@ Soy un amante de la programación, usando lenguajes como Python y Java, y tambi�
 
 > Ganador del Campeonato code.org, Minecraft 2015.
 
-## Lista de habilidades
+## 🧑🏻‍💻Lista de habilidades
 
 > Nivel básico en Python y Java
 
